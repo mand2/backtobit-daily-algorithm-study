@@ -131,3 +131,5 @@ dmypy.json
 # IntelliJ
 /.idea/
 /.idea/.gitignore
+
+out/**
