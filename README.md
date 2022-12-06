@@ -65,3 +65,4 @@
 | **일자** | **폴더명** | **문제 1** | **문제 2** |
 | -------- | ------------------- | ------------------- | ------------------- |
 | 2022.12.06 | easy | [443. String Compression](https://leetcode.com/problems/string-compression/description/) | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) |
+
