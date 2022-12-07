@@ -62,10 +62,11 @@
 
 #### 1차 : leetcode easy
 
-| **일자** | **폴더명**          | **문제 1**                                                                                          | **문제 2**                                                   | **진행 현황** |
-|--------| ------------------- |---------------------------------------------------------------------------------------------------| ------------------------------------------------------------ |-----------|
+| **일자** | **폴더명**          | **문제 1**                                                                                | **문제 2**                                                   | **진행 현황** |
+|--------| ------------------- |-----------------------------------------------------------------------------------------| ------------------------------------------------------------ |-----------|
 | 1일차    | easy              | [443. String Compression](https://leetcode.com/problems/string-compression/)            | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | `진행 완료`   |
-| 2일차    | easy              | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies//) | `진행 완료`    |
+| 2일차    | easy              | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | `진행 완료`    |
+| 3일차    | easy              | [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)        | [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) | `진행 완료`    |
 
 
 [comment]: <> (#### 1차 : 코딩테스트 고득점 Kit &#40;프로그래머스&#41;)
