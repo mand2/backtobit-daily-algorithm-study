@@ -62,10 +62,11 @@
 
 #### 1차 : leetcode easy
 
-| **일자** | **폴더명**          | **문제 1**                                                                                | **문제 2**                                                   | **진행 현황** |
-|--------| ------------------- |-----------------------------------------------------------------------------------------| ------------------------------------------------------------ |-----------|
-| 1일차    | easy              | [443. String Compression](https://leetcode.com/problems/string-compression/)            | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | `진행 완료`   |
-| 2일차    | easy              | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | `진행 완료`    |
-| 3일차    | easy              | [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)        | [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) | `진행 완료`    |
-| 3일차    | easy              | [415. Add Strings](https://leetcode.com/problems/add-strings/)        | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | `진행 완료`    |
+| **일자** | **폴더명** | **문제 1**                                                                                | **문제 2**                                                                                                                  |
+|--------|---------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| 1일차    | easy    | [443. String Compression](https://leetcode.com/problems/string-compression/)            | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                    |
+| 2일차    | easy    | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)                                                      |
+| 3일차    | easy    | [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)        | [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) |
+| 4일차    | easy    | [415. Add Strings](https://leetcode.com/problems/add-strings/)                          | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                                               |
+| 5일차    | easy    | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                  |
 
