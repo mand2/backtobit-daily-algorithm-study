@@ -1,72 +1,55 @@
 # daily-algorithm-study-2022
 > 매일 2문제씩 같은 알고리즘 문제를 풀고 서로 리뷰하는 스터디입니다
 
-<br>
+## 스터디 주제
+- 알고리즘 & 자료구조
 
-## 기본정보
-- 기간: 2022년 12월 ~
-- 정기 모임
-  - 온라인 : 매일 07:00 - 09:00 
-  - 오프라인 : 매주 일요일 07:00
-- 참고 사이트
-  - [leetcode](https://leetcode.com)
-  - [leetcode 문제해설 - Kevin Naughton Jr.](https://www.youtube.com/@KevinNaughtonJr/playlists)
-- 언어: python, java, kotlin
+## 스터디 기간
 
-<br>
+- 2022.12.05 - 2022.02.26, 총 12주
+- 매주 일요일 09:00 - 11:00
 
-## 스터디 규칙
 
-#### 문제 풀이
+## 진행방법
 
-1. 매일 2문제씩 선정된 문제 풀이를 진행한다. 
-   1. 문제는 매주 일요일 모임에서 결정한다. 
-   2. 문제는 회사별, 난이도별 문제해설이 존재하는 [Kevin Naughton Jr.](https://www.youtube.com/@KevinNaughtonJr/playlists) 의 유튜브 재생목록을 기준으로 우선 선정한다. 
-   3. 문제 풀이시 [템플릿](/example/array/answer-template.md)에 맞게 적고 원본 코드파일 함께 제출하기
-      1. 설명 md file + 원본 코드 file 
-2. Github 활용하여 pull request로 코드 리뷰를 진행한다. 
-   1. 서로에 대한 코드 리뷰는 일요일 만남 전까지 완료해야한다. 
-   2. 반드시 코드 리뷰 후에, main branch 로 merge 한다. 
-   3. 기본적으로 올릴 때는 각자 이름으로 된 branch 에 올린다. 
-3. 코드 리뷰 받은 것에 대해서는 다음 회의 전까지 수정해서 다시 깃허브에 올리도록 한다.
+### 일요일 스터디
 
-#### 진행 방식
+- 09:00 - 09:30 각자 1주일동안 공부한 알고리즘 주제에 대해서 내용 공유하며 복습하기
+    - 각자 블로그, 깃허브 등 정리해온 것을 보면서 공유하면 좋을 듯
+- 09:30 - 10:30 각자 30분동안 1주일동안 푼 문제 중, 3문제를 선택하여 풀이방식 설명하고 질의응답
+    - 일요일에 만나서 설명할 3문제는 **미리 디스코드를 통해 공유**하여 겹치지 않도록 한다.
+        - 설명할 문제는 금요일 저녁~토요일 오전 내에 선정하여 공유
+    - 나의 풀이방식에 대한 설명을 준비하면서 상대방의 코드도 리뷰해본다.
+    - 발표 내용은 md 파일로 정리하여 레포지토리에 저장 및 공유될 수 있도록 한다.
+    - 전체적으로 순서는 다음과 같이. 문제설명 → 접근방식 설명 → 시간복잡도, 공간복잡도 설명 → 질의응답
+- 10:30 - 11:00 주간 스터디 회고
+    - 회고 형식은 [회고 템플릿](https://www.notion.so/cb7756cd3b8a401f81160e5672d23ca2) 에 맞춰서 진행하기
 
-- 매일 오전 7시부터 9시까지 온라인으로 각자 알고리즘을 푼다. 
-- 매주 일요일 오전 7시에 오프라인으로 만나 회고를 진행한다.
+### 평일 개인 일정
 
-<br>
+1. 매일 07:00 - 09:00 디스코드에 접속하여 자유롭게 공부한다.
+2. 공용 github repo에 개인별 디렉토리를 생성
+3. 매 주 정해진 주제에 맞게 백준 온라인 저지에서 문제를 푼다.
+4. 하루에 최소 2문제씩 푸는 것을 기본으로 한다. (한 주면 최소 10문제 이상)
+5. 매일 깃허브 개인 브랜치에 푸시 후, 일요일 스터디 시간에 main 브랜치로 merge
+    1. 문제 업로드 형식 : [개인 디렉토리]/[주제별]/[문제출처]_[문제번호].md
+    2. 예) minhee/greedy/beakjoon_301.md
 
-## PR 규칙 및 Commit Message 규칙
+## 스터디 참여인원
 
-#### Pull Request
-
-- [leetcode-문제번호] 이름
-
-#### Commit Message
-
-- [leetcode-문제번호] 문제명
-
-<br>
-
-## 파일 및 폴더 구조
-
-#### leetcode
-
-- leetcode/minhee/폴더명/문제명.java
-- leetcode/nayeon/폴더명/문제명.py
-
-<br>
+- [김나연](https://github.com/mand2)
+- [손민희](https://github.com/miniminis)
 
 ## 일정표
 
 #### 1차 : leetcode easy
 
-| **일자** | **폴더명** | **문제 1**                                                                                | **문제 2**                                                                                                                  |
-|--------|---------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| 1일차    | easy    | [443. String Compression](https://leetcode.com/problems/string-compression/)            | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                    |
-| 2일차    | easy    | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)                                                      |
-| 3일차    | easy    | [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)        | [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) |
-| 4일차    | easy    | [415. Add Strings](https://leetcode.com/problems/add-strings/)                          | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                                               |
-| 5일차    | easy    | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                  |
+| **일자** | **폴더명**            | **문제 1**                                                                                | **문제 2**                                                                                                                  |
+|--------|--------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| 1일차    | easy               | [443. String Compression](https://leetcode.com/problems/string-compression/)            | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                    |
+| 2일차    | easy               | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)                                                      |
+| 3일차    | easy               | [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)        | [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) |
+| 4일차    | easy               | [415. Add Strings](https://leetcode.com/problems/add-strings/)                          | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                                               |
+| 5일차    | easy               | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                  |
+| 6일차    | ds(data structure) | [10828 스택](https://www.acmicpc.net/problem/10828/)                               | [](/)                  |
 
