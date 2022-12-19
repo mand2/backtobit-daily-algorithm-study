@@ -51,5 +51,5 @@
 | 3일차    | easy               | [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)        | [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) |
 | 4일차    | easy               | [415. Add Strings](https://leetcode.com/problems/add-strings/)                          | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                                               |
 | 5일차    | easy               | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                  |
-| 6일차    | ds(data structure) | [10828 스택](https://www.acmicpc.net/problem/10828/)                               | [](/)                  |
+| 6일차    | ds(data structure) | [10828 스택](https://www.acmicpc.net/problem/10828/)                               | [9012 괄호](https://www.acmicpc.net/problem/9012/)                                                                           |
 
