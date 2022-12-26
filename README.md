@@ -53,4 +53,5 @@
 | 5일차    | easy               | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                  |
 | 6일차    | ds(data structure) | [10828 스택](https://www.acmicpc.net/problem/10828/)                                      | [9012 괄호](https://www.acmicpc.net/problem/9012/)                                                                          |
 | 6일차    | ds(data structure) | [10773 제로](https://www.acmicpc.net/problem/10773/)                                      | [](/)                                                                          |
+| 7일차    | ds(data structure) | [1935 후위 표기식2](https://www.acmicpc.net/problem/1935/)                                  | [](/)                                                                          |
 
