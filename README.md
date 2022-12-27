@@ -55,5 +55,5 @@
 | 6일차    | ds(data structure) | [10773 제로](https://www.acmicpc.net/problem/10773/)                                      | [](/)                                                                                                                     |
 | 7일차    | ds(data structure) | [1935 후위 표기식2](https://www.acmicpc.net/problem/1935/)                                   | [](/)                                                                                                                     |
 | 8일차    | recursion          | [10870 피보나치 수 5](https://www.acmicpc.net/problem/10870/)                                | [2630 색종이 만들기](https://www.acmicpc.net/problem/2630/)                                                                     |
-| 8일차    | recursion          | [1427 소트인사이드](https://www.acmicpc.net/problem/1427/)                                   | [2630 색종이 만들기](https://www.acmicpc.net/problem/2630/)                                                                     |
+| 8일차    | recursion          | [1427 소트인사이드](https://www.acmicpc.net/problem/1427/)                                   | [2750 수 정렬하기](https://www.acmicpc.net/problem/2750/)                                                                      |
 
