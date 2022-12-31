@@ -40,10 +40,46 @@
 - [김나연](https://github.com/mand2)
 - [손민희](https://github.com/miniminis)
 
+
+## Reference
+- [java 200제](https://github.com/castello/javajungsuk3)
+- [코드업 100제](https://codeup.kr/problemsetsol.php)
+- [릿코드](https://leetcode.com/problemset/all/)
+- [코드업](https://codeup.kr/problemsetsol.php)
+- [백준 주제별 알고리즘](https://www.acmicpc.net/problem/tags)
+- [프로그래머스 고득점 KIT](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
+- [정올](http://www.jungol.co.kr/)
+
+| 주차 | 주제                                        | 문제집 링크                                              |
+| --- |-------------------------------------------|-----------------------------------------------------|
+| 1 | -                                         | -                                                   |
+| 2 | 수학 (합공식/피보나치수/약수/최대공약수/최소공배수/소수)          | [수학](https://www.acmicpc.net/workbook/view/8997)                                                  |
+| 3 | 자료구조 (스택/큐/덱/힙)                           | [자료구조](https://www.acmicpc.net/workbook/view/8999)                                                |
+| 4 | 재귀함수의 이해 & 여러 가지 정렬                       | [재귀 및 정렬](https://www.acmicpc.net/workbook/view/9000)                                             |
+| 5 | 다이나믹 프로그래밍 (DP)                           | [DP](https://www.acmicpc.net/workbook/view/9001)                                                  |
+| 6 | 그래프 이론과 구현 (1) & DFS와 BFS 기초              | [그래프, DFS, BFS (1)](https://www.acmicpc.net/workbook/view/9003)                                   |
+| 7 | 그래프 이론과 구현 (2) & DFS와 BFS 응용 & 다익스트라 알고리즘 | 백준 7576, 2178, 10026, 5014, 1916, 4485              |
+| 8 | 분할정복 & 이분탐색                               | 2630, 2448, 1780, 1992,2512, 2110, 2470             |
+| 9 | 그리디 알고리즘                                  | (백준) 1783, 11501, 1946, 11497 (프로그래머스) 42883, 42862 |
+| 10 | 완전탐색(Brute Force) & 시뮬레이션                 | (백준) 2961, 1713, 15683, 17143, 3190 (프로그래머스) 42839  |
+| 11 | 구현                                        | -                                                   |
+| 12 | 실전 문제 풀이 - 문자열, 투포인터, 슬라이딩 윈도우, 백트래킹      | [실전문제](https://www.acmicpc.net/workbook/view/1152) |
+
+- 각 문제집은 위에서부터 순서대로 10문제 + 그 이상은 자유롭게 (하루에 최소 2문제씩)
+- 혹시 위의 문제가 부족하다면
+    - 코드업 기초 100제 : [https://codeup.kr](https://codeup.kr/)
+    - [solved.ac](https://solved.ac)
+    - [백준 온라인 저지 주제별 문제집 참고](https://github.com/tony9402/baekjoon)
+
+
+## Others
+- [블로그|개념공부내용](https://wiki.mhson.world)
+- [온라인 스톱워치](https://www.online-stopwatch.com/)
+- [GIT|이것이 취업을 위한 코딩테스트다 with python](https://github.com/ndb796/python-for-coding-test)
+
+
+
 ## 일정표
-
-#### 1차 : leetcode easy
-
 | **일자** | **폴더명**            | **문제 1**                                                                                | **문제 2**                                                                                                                  |
 |--------|--------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | 1일차    | easy               | [443. String Compression](https://leetcode.com/problems/string-compression/)            | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                    |
@@ -51,10 +87,11 @@
 | 3일차    | easy               | [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)        | [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) |
 | 4일차    | easy               | [415. Add Strings](https://leetcode.com/problems/add-strings/)                          | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                                               |
 | 5일차    | easy               | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                  |
-| 6일차    | ds(data structure) | [10828 스택](https://www.acmicpc.net/problem/10828/)                                      | [9012 괄호](https://www.acmicpc.net/problem/9012/)                                                                          |
-| 6일차    | ds(data structure) | [10773 제로](https://www.acmicpc.net/problem/10773/)                                      | [](/)                                                                                                                     |
-| 7일차    | ds(data structure) | [1935 후위 표기식2](https://www.acmicpc.net/problem/1935/)                                   | [](/)                                                                                                                     |
-| 8일차    | recursion          | [10870 피보나치 수 5](https://www.acmicpc.net/problem/10870/)                                | [2630 색종이 만들기](https://www.acmicpc.net/problem/2630/)                                                                     |
-| 9일차    | recursion          | [1427 소트인사이드](https://www.acmicpc.net/problem/1427/)                                    | [2750 수 정렬하기](https://www.acmicpc.net/problem/2750/)                                                                      |
-| 10일차   | recursion          | [1431 시리얼 번호](https://www.acmicpc.net/problem/1431/)                                    | [2447 별찍기 10](https://www.acmicpc.net/problem/2447/)                                                                      |
+| 6일차    | ds(data structure) | [10828 스택](https://www.acmicpc.net/problem/10828/)                                     | [9012 괄호](https://www.acmicpc.net/problem/9012/)                                                                          |
+| 6일차    | ds(data structure) | [10773 제로](https://www.acmicpc.net/problem/10773/)                                     | [](/)                                                                                                                     |
+| 7일차    | ds(data structure) | [1935 후위 표기식2](https://www.acmicpc.net/problem/1935/)                                 | [](/)                                                                                                                     |
+| 8일차    | recursion          | [10870 피보나치 수 5](https://www.acmicpc.net/problem/10870/)                              | [2630 색종이 만들기](https://www.acmicpc.net/problem/2630/)                                                                     |
+| 9일차    | recursion          | [1427 소트인사이드](https://www.acmicpc.net/problem/1427/)                                  | [2750 수 정렬하기](https://www.acmicpc.net/problem/2750/)                                                                      |
+| 10일차   | recursion          | [1431 시리얼 번호](https://www.acmicpc.net/problem/1431/)                                  | [2447 별찍기 10](https://www.acmicpc.net/problem/2447/)                                                                      |
+| 11일차   | codeup_100         | [[python 기초 100제] 6001 ~ 6020](https://codeup.kr/problemsetsol.php?psid=33)            | [](/)                                                                      |
 
