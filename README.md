@@ -95,4 +95,4 @@
 | 10일차   | recursion          | [1431 시리얼 번호](https://www.acmicpc.net/problem/1431/)                                    | [2447 별찍기 10](https://www.acmicpc.net/problem/2447/)                                                                      |
 | 11일차   | codeup_100         | [[python 기초 100제] 6001 ~ 6020](https://codeup.kr/problemsetsol.php?psid=33)             | [[python 기초 100제] 6021 ~ 6024](https://codeup.kr/problemsetsol.php?psid=33)                                               |
 | 12일차   | codeup_100         | [[python 기초 100제] 6025 ~ 6031](https://codeup.kr/problemsetsol.php?psid=33)             | []()                                                                                                                      |
-
+| 12일차   | recursion          | [[2947] 나무 조각](https://www.acmicpc.net/problem/2947/)                                   | [[11729] 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729/)                                                                    |
