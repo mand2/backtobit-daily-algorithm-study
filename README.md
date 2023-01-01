@@ -94,4 +94,5 @@
 | 9일차    | recursion          | [1427 소트인사이드](https://www.acmicpc.net/problem/1427/)                                    | [2750 수 정렬하기](https://www.acmicpc.net/problem/2750/)                                                                      |
 | 10일차   | recursion          | [1431 시리얼 번호](https://www.acmicpc.net/problem/1431/)                                    | [2447 별찍기 10](https://www.acmicpc.net/problem/2447/)                                                                      |
 | 11일차   | codeup_100         | [[python 기초 100제] 6001 ~ 6020](https://codeup.kr/problemsetsol.php?psid=33)             | [[python 기초 100제] 6021 ~ 6024](https://codeup.kr/problemsetsol.php?psid=33)                                               |
+| 12일차   | codeup_100         | [[python 기초 100제] 6025 ~ 6031](https://codeup.kr/problemsetsol.php?psid=33)             | []()                                                                                                                      |
 
