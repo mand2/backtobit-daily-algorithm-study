@@ -1,6 +1,6 @@
 N = int(input())
 
-# 풀이 1
+# 풀이 1 시간 112
 dp = [0] * (N + 1)
 dp[1] = 1
 
@@ -13,7 +13,7 @@ for i in range(2, N + 1):
 print(dp[N] % 10007)
 
 
-# 풀이 2
+# 풀이 2 시간 116
 dp = [1, 2]
 if N < 3:
     print(N)
