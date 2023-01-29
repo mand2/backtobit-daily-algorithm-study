@@ -76,6 +76,8 @@
 - [블로그|개념공부내용](https://wiki.mhson.world)
 - [온라인 스톱워치](https://www.online-stopwatch.com/)
 - [GIT|이것이 취업을 위한 코딩테스트다 with python](https://github.com/ndb796/python-for-coding-test)
+- [👀 Algorithm Visualizer](https://algorithm-visualizer.org/)
+- [👀 백준 온라인 저지 관련 프로젝트/라이브러리/서비스/유틸 모음 깃헙](https://github.com/RanolP/awesome-baekjoon)
 
 
 
@@ -113,6 +115,8 @@
 | 26일차   | divide_conqure     | [[2448] 별 찍기 11](https://www.acmicpc.net/problem/2448/)                                 | [[1992] 쿼드트리](https://www.acmicpc.net/problem/1992)                                                                       |
 | 27일차   | divide_conqure     | [[17829] 222-풀링](https://www.acmicpc.net/problem/17829/)                                | [[1074] Z](https://www.acmicpc.net/problem/1074)                                                                          |
 | 27일차   | divide_conqure     | [[4256] 트리](https://www.acmicpc.net/problem/4256/)                                      | [[] ](https://www.acmicpc.net/problem/)                                                                                   |
-| 28일차   | greedy             | [[14916] 거스름돈](https://www.acmicpc.net/problem/14916/)                                  | [[1343] 폴리오미](https://www.acmicpc.net/problem/1343)                                                                       |
-| 28일차   | greedy             | [[2217] 로프](https://www.acmicpc.net/problem/2217/)                                      | [[1758] 알바생 강호](https://www.acmicpc.net/problem/1758)                                                                                   |
-| 28일차   | greedy             | [[11399] ATM](https://www.acmicpc.net/problem/11399/)                                      | [[11508] 2+1 세일](https://www.acmicpc.net/problem/11508)                                                                                   |
+| 28일차   | greedy             | [[14916] 거스름돈](https://www.acmicpc.net/problem/14916/)                                  | [[1343] 폴리오미노](https://www.acmicpc.net/problem/1343)                                                                      |
+| 28일차   | greedy             | [[2217] 로프](https://www.acmicpc.net/problem/2217/)                                      | [[1758] 알바생 강호](https://www.acmicpc.net/problem/1758)                                                                     |
+| 28일차   | greedy             | [[11399] ATM](https://www.acmicpc.net/problem/11399/)                                      | [[11508] 2+1 세일](https://www.acmicpc.net/problem/11508)                                                                   |
+| 29일차   | greedy             | [[11047] 동전 0](https://www.acmicpc.net/problem/11047/)                                      | [[13305] 주유소](https://www.acmicpc.net/problem/13305)                                                                      |
+| 29일차   | greedy             | [[20115] 에너지 드링크](https://www.acmicpc.net/problem/20115/)                                      | [[20300] 서강근육맨](https://www.acmicpc.net/problem/20300)                                                                                   |
