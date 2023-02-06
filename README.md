@@ -12,6 +12,10 @@
 
 ## 진행방법
 
+### 이모지 
+🔥 다시 풀어보기
+👀 생각할 부분 있음
+
 ### 일요일 스터디
 
 - 09:00 - 09:30 각자 1주일동안 공부한 알고리즘 주제에 대해서 내용 공유하며 복습하기
@@ -116,5 +120,5 @@
 | 29일차   | greedy             | [[11047] 동전 0](https://www.acmicpc.net/problem/11047/) <br/>  [[13305] 주유소](https://www.acmicpc.net/problem/13305) <br/> [[20115] 에너지 드링크](https://www.acmicpc.net/problem/20115/) <br/>  [[20300] 서강근육맨](https://www.acmicpc.net/problem/20300)     <br/>  [[20365] 블로그2](https://www.acmicpc.net/problem/20365)   <br/>  [[1541] 잃어버린 괄호](https://www.acmicpc.net/problem/1541) |
 | 30일차   | greedy             | [[16953] A → B](https://www.acmicpc.net/problem/16953/) <br/> [[21314] 민겸 수](https://www.acmicpc.net/problem/21314/) <br/>  [[1931] 회의실 배정](https://www.acmicpc.net/problem/1931/) <br/>     [[11000] 강의실 배정](https://www.acmicpc.net/problem/11000/) <br/>                                                                                                                       |
 | 31일차   | greedy             | [[13164] 행복 유치원](https://www.acmicpc.net/problem/13164/) <br/>    [[19598] 최소 회의실 개수](https://www.acmicpc.net/problem/19598/) <br/>     [[2212] 센서](https://www.acmicpc.net/problem/2212/) <br/>                                                                                                                                                                                  |
-| 32일차   | greedy             | [[1092] 배](https://www.acmicpc.net/problem/1092) <br/>                                                                                                                                                                                             |
-| 33일차   | bruteforce         | [[15721] 번데기](https://www.acmicpc.net/problem/15721) <br/>       [[1969] DNA](https://www.acmicpc.net/problem/1969) <br/>  [[2422] 한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) <br/>                                                                                                                                                                                    |
+| 32일차   | greedy             | [[1092] 배](https://www.acmicpc.net/problem/1092) <br/>                                                                                                                                                                                                                                                                                                                            |
+| 33일차   | bruteforce         | [[15721] 번데기](https://www.acmicpc.net/problem/15721) <br/>       [[1969] DNA](https://www.acmicpc.net/problem/1969) 👀 <br/>  [[2422] 한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) 🔥 <br/>                                                                                                                                                                   |
