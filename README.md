@@ -13,7 +13,7 @@
 ## 진행방법
 
 ### 이모지 
-🔥 다시 풀어보기
+🔥 다시 풀어보기 or 문제 제대로 파악하기 어려웠음(파악만하면 ㅇㅋ)
 👀 생각할 부분 있음
 
 ### 일요일 스터디
@@ -123,4 +123,4 @@
 | 32일차   | greedy             | [[1092] 배](https://www.acmicpc.net/problem/1092) <br/>                                                                                                                                                                                                                                                                                                                            |
 | 33일차   | bruteforce         | [[15721] 번데기](https://www.acmicpc.net/problem/15721) <br/>       [[1969] DNA](https://www.acmicpc.net/problem/1969) 👀 <br/>  [[2422] 한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) 🔥 <br/>                                                                                                                                                                   |
 | 34일차   | bruteforce         | [[18511] 큰 수 구성하기](https://www.acmicpc.net/problem/18511) 🔥 <br/>        [[5568] 카드 놓기](https://www.acmicpc.net/problem/5568) <br/>                                                                                                                                                                                                                                              |
-| 35일차   | bruteforce         | [[16439] 치킨치킨치킨](https://www.acmicpc.net/problem/16439)   <br/>            [[2503] 숫자 야구](https://www.acmicpc.net/problem/2503)   <br/>            [[17626] Four Squares](https://www.acmicpc.net/problem/17626)   <br/>                                                                                                                                                                                                                                                                                                                         |
+| 35일차   | bruteforce         | [[16439] 치킨치킨치킨](https://www.acmicpc.net/problem/16439) 👀    <br/>            [[2503] 숫자 야구](https://www.acmicpc.net/problem/2503) 🔥   <br/>            [[17626] Four Squares](https://www.acmicpc.net/problem/17626) 🔥   <br/>                                                                                                                                                |
