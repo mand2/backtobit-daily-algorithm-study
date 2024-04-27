@@ -1,14 +1,17 @@
-# daily-algorithm-study-2022
-> 매일 2문제씩 같은 알고리즘 문제를 풀고 서로 리뷰하는 스터디입니다
+# daily-algorithm-study
+> 매일 n문제씩 같은 알고리즘 문제를 풀자.
 
 ## 스터디 주제
 - 알고리즘 & 자료구조
 
 ## 스터디 기간
 
+1차
 - 2022.12.05 - 2022.02.26, 총 12주
 - 매주 일요일 09:00 - 11:00
 
+2차
+- 2024.04.27 - 총 15주
 
 ## 진행방법
 
@@ -16,33 +19,21 @@
 🔥 다시 풀어보기 or 문제 제대로 파악하기 어려웠음(파악만하면 ㅇㅋ)
 👀 생각할 부분 있음
 
-### 일요일 스터디
+### 스터디 관련
+dale 님의 leet-code 스터디 참여 (2024.04~)
 
-- 09:00 - 09:30 각자 1주일동안 공부한 알고리즘 주제에 대해서 내용 공유하며 복습하기
-    - 각자 블로그, 깃허브 등 정리해온 것을 보면서 공유하면 좋을 듯
-- 09:30 - 10:30 각자 30분동안 1주일동안 푼 문제 중, 3문제를 선택하여 풀이방식 설명하고 질의응답
-    - 일요일에 만나서 설명할 3문제는 **미리 디스코드를 통해 공유**하여 겹치지 않도록 한다.
-        - 설명할 문제는 금요일 저녁~토요일 오전 내에 선정하여 공유
-    - 나의 풀이방식에 대한 설명을 준비하면서 상대방의 코드도 리뷰해본다.
-    - 발표 내용은 md 파일로 정리하여 레포지토리에 저장 및 공유될 수 있도록 한다.
-    - 전체적으로 순서는 다음과 같이. 문제설명 → 접근방식 설명 → 시간복잡도, 공간복잡도 설명 → 질의응답
-- 10:30 - 11:00 주간 스터디 회고
-    - 회고 형식은 [회고 템플릿](https://www.notion.so/cb7756cd3b8a401f81160e5672d23ca2) 에 맞춰서 진행하기
+### push 방법
 
-### 평일 개인 일정
-
-1. 매일 07:00 - 09:00 디스코드에 접속하여 자유롭게 공부한다.
-2. 공용 github repo에 개인별 디렉토리를 생성
-3. 매 주 정해진 주제에 맞게 백준 온라인 저지에서 문제를 푼다.
-4. 하루에 최소 2문제씩 푸는 것을 기본으로 한다. (한 주면 최소 10문제 이상)
-5. 매일 깃허브 개인 브랜치에 푸시 후, 일요일 스터디 시간에 main 브랜치로 merge
+1. 매일 깃허브 개인 브랜치에 푸시 후, 
+2. 2022 년도 기준
     1. 문제 업로드 형식 : [개인 디렉토리]/[주제별]/[문제출처]_[문제번호].md
     2. 예) minhee/greedy/beakjoon_301.md
+3. 2024 년도
+   1. 문제 업로드 형식 : [개인 디렉토리]/[주제별]/[week_n]/[문제이름].md
 
 ## 스터디 참여인원
 
 - [김나연](https://github.com/mand2)
-- [손민희](https://github.com/miniminis)
 
 
 ## Reference
@@ -53,6 +44,34 @@
 - [백준 주제별 알고리즘](https://www.acmicpc.net/problem/tags)
 - [프로그래머스 고득점 KIT](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 - [정올](http://www.jungol.co.kr/)
+
+
+## Others
+- [블로그|개념공부내용](https://wiki.mhson.world)
+- [온라인 스톱워치](https://www.online-stopwatch.com/)
+- [GIT|이것이 취업을 위한 코딩테스트다 with python](https://github.com/ndb796/python-for-coding-test)
+- [👀 Algorithm Visualizer](https://algorithm-visualizer.org/)
+- [👀 백준 온라인 저지 관련 프로젝트/라이브러리/서비스/유틸 모음 깃헙](https://github.com/RanolP/awesome-baekjoon)
+
+
+## 문제풀이 
+| **일자**   | **폴더명**         | **문제**                                                                                                                                      |
+|----------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 24.04.27 | leetcode/week_1 | [contains_duplicate](https://leetcode.com/problems/contains-duplicate/) <br/> [valid_anagram](https://leetcode.com/problems/valid-anagram/) |
+
+
+
+
+<br>
+
+--------
+
+### 2022 년 관련
+
+<details>
+    <summary>2022년 진행 내용</summary>
+
+**2022. 주차별 문제 리스트**
 
 | 주차 | 주제                                        | 문제집 링크                                              |
 | --- |-------------------------------------------|-----------------------------------------------------|
@@ -76,16 +95,9 @@
     - [백준 온라인 저지 주제별 문제집 참고](https://github.com/tony9402/baekjoon)
 
 
-## Others
-- [블로그|개념공부내용](https://wiki.mhson.world)
-- [온라인 스톱워치](https://www.online-stopwatch.com/)
-- [GIT|이것이 취업을 위한 코딩테스트다 with python](https://github.com/ndb796/python-for-coding-test)
-- [👀 Algorithm Visualizer](https://algorithm-visualizer.org/)
-- [👀 백준 온라인 저지 관련 프로젝트/라이브러리/서비스/유틸 모음 깃헙](https://github.com/RanolP/awesome-baekjoon)
 
+**2022. 일정표**
 
-
-## 일정표
 | **일자** | **폴더명**            | **문제**                                                                                                                                                                                                                                                                                                                                                                         |
 |--------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1일차    | easy               | [443. String Compression](https://leetcode.com/problems/string-compression) <br/> [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)                                                                                                                                                                                                        |
@@ -126,4 +138,9 @@
 | 35일차   | bruteforce         | [[16439] 치킨치킨치킨](https://www.acmicpc.net/problem/16439) 👀    <br/>            [[2503] 숫자 야구](https://www.acmicpc.net/problem/2503) 🔥   <br/>            [[17626] Four Squares](https://www.acmicpc.net/problem/17626) 🔥   <br/>                                                                                                                                             |
 | 36일차   | bruteforce         | [[14501] 퇴사](https://www.acmicpc.net/problem/14501)       <br/>             [[16937] 두 스티커](https://www.acmicpc.net/problem/16937)       <br/>             [[16508] 전공책](https://www.acmicpc.net/problem/16508)       <br/>                                                                                                                                                    |
 | 37일차   | impl               | [[2753] 윤년](https://www.acmicpc.net/problem/2753)          <br/>              [[5597] 과제 안 내신 분..?](https://www.acmicpc.net/problem/5597)          <br/>              [[20053] 최소, 최대 2](https://www.acmicpc.net/problem/20053)          <br/> [[1212] 8진수 2진수](https://www.acmicpc.net/problem/1212)          <br/> [[21918] 전구](https://www.acmicpc.net/problem/21918)          <br/>              [[14467] 소가 길을 건너간 이유 1](https://www.acmicpc.net/problem/14467)          <br/>            |
-| 37일차   | impl               | [[20546] 🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546)          <br/> |
+| 38일차   | impl               | [[20546] 🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546)          <br/> [[2578] 빙고](https://www.acmicpc.net/problem/2578)          <br/> |
+
+
+
+</details>
+
